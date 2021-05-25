@@ -15,7 +15,6 @@
 
 .menu li {
     display: flex;
-    margin-bottom: 10px;
 }
 
 .menu li a {
@@ -25,8 +24,9 @@
     font-size: 1.2em;
     font-family: sans-serif;
     font-weight: bold;
+    padding: 10px 30px;
 }
 
 .menu li a:hover {
-    background-color: #DBDBDB;
+    background-color: #424242;
 }

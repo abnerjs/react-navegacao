@@ -1,3 +1,6 @@
 .content {
-    
+    display: flex;
+    flex: 1;
+    color: #DBDBDB;
+    padding: 10px 30px;
 }
